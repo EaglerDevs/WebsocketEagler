@@ -3,11 +3,11 @@
  //Dependencies
  #include <stdlib.h>
  #include "core/net.h"
- #include "web_socket/web_socket.h"
- #include "web_socket/web_socket_auth.h"
- #include "web_socket/web_socket_frame.h"
- #include "web_socket/web_socket_transport.h"
- #include "web_socket/web_socket_misc.h"
+ #include "web_socket/websocket.h"
+ #include "web_socket/websocket_auth.h"
+ #include "web_socket/websocket_frame.h"
+ #include "web_socket/websocket_transport.h"
+ #include "web_socket/websocket_misc.h"
  #include "str.h"
  #include "encoding/base64.h"
  #include "debug.h"
