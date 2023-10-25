@@ -4,8 +4,8 @@
 
  #include <stdlib.h>
  #include "core/net.h"
- #include "web_socket/web_socket.h"
- #include "web_socket/web_socket_auth.h"
+ #include "web_socket/websocket.h"
+ #include "web_socket/websocket_auth.h"
  #include "encoding/base64.h"
  #include "hash/md5.h"
  #include "str.h"
