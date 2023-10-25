@@ -3,7 +3,7 @@
   
  //Dependencies
  #include "core/net.h"
- #include "web_socket/web_socket.h"
+ #include "web_socket/websocket.h"
   
  //C++ guard
  #ifdef __cplusplus
