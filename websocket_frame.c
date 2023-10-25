@@ -2,10 +2,10 @@
   
  //Dependencies
  #include "core/net.h"
- #include "web_socket/web_socket.h"
- #include "web_socket/web_socket_frame.h"
- #include "web_socket/web_socket_transport.h"
- #include "web_socket/web_socket_misc.h"
+ #include "web_socket/websocket.h"
+ #include "web_socket/websocket_frame.h"
+ #include "web_socket/websocket_transport.h"
+ #include "web_socket/websocket_misc.h"
  #include "debug.h"
   
  //Check TCP/IP stack configuration
