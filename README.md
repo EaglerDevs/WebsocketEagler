@@ -3,7 +3,7 @@ Websocket for Eaglercraft 1.20
 -
 This is our Websocket for Eaglercraft 1.20
 -
-This wrbsocket allows you to join Eagler and Non-Eagler Servers
+This websocket allows you to join Eagler and Non-Eagler Servers
 -
 It is still in development !
 -
